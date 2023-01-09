@@ -1,0 +1,12 @@
+{
+  "name": "com.rsh.mediator",
+  "version": "1.0.0",
+  "displayName": "Mediator",
+  "description": "Mediator",
+  "unity": "2021.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Rasoul Shahhoseini"
+  },
+  "type": "library"
+}
